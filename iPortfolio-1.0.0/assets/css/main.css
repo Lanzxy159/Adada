@@ -684,6 +684,10 @@ section,
 /*--------------------------------------------------------------
 # Skills Section
 --------------------------------------------------------------*/
+.section .skills{
+
+  padding: 10px 0;
+}
 .skills .progress {
   height: 60px;
   display: block;
